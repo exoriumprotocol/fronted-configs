@@ -1,0 +1,15 @@
+[{
+    "title": "Exorium Testnet",
+    "url": "https://testnet.exoscan.net",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/arbitrum-sepolia.svg",
+    "isActive": true
+},
+{
+    "title": "Exorium Mainnet",
+    "url": "https://exoscan.net/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/arbitrum-one-icon-light.svg",
+    "isActive": false
+}
+]

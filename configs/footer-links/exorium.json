@@ -1,0 +1,57 @@
+[{
+    "title": "Ecosystem",
+    "links": [{
+            "text": "Swap & Exchange",
+            "url": "https://exodex.net"
+        },
+        {
+            "text": "MemePad & Create Token",
+            "url": "https://create.exodex.net"
+        },
+        {
+            "text": "Wallet",
+            "url": "https://wallet.exorium.net/"
+        }
+    ]
+},
+{
+    "title": "Build with us",
+    "links": [{
+            "text": "Documentation",
+            "url": "https://wiki.exorium.net"
+        },
+        {
+            "text": "Github",
+            "url": "https://github.com/exoriumprotocol"
+        }
+    ]
+},
+{
+    "title": "General",
+    "links": [{
+            "text": "Home Us",
+            "url": "https://exorium.net"
+        },
+        {
+            "text": "Whitepaper",
+            "url": "https://exorium.net/whitepaper.pdf"
+        }
+    ]
+},
+{
+    "title": "Social Media",
+    "links": [{
+            "text": "X",
+            "url": "https://x.com/ExoriumProtocol"
+        },
+        {
+            "text": "Telegram",
+            "url": "https://t.me/exoriumprotocol"
+        },
+        {
+            "text": "Medium",
+            "url": "https://medium.com/@exoriumprotocol"
+        }
+    ]
+}
+]
