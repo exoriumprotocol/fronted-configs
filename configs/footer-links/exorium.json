@@ -18,7 +18,7 @@
     "title": "Build with us",
     "links": [{
             "text": "Documentation",
-            "url": "https://wiki.exorium.net"
+            "url": "https://guide.exorium.net"
         },
         {
             "text": "Github",
@@ -29,12 +29,12 @@
 {
     "title": "General",
     "links": [{
-            "text": "Home Us",
+            "text": "Home",
             "url": "https://exorium.net"
         },
         {
             "text": "Whitepaper",
-            "url": "https://exorium.net/whitepaper.pdf"
+            "url": "https://www.exorium.net/whitepaper-exorium-v1.pdf"
         }
     ]
 },
@@ -42,7 +42,7 @@
     "title": "Social Media",
     "links": [{
             "text": "X",
-            "url": "https://x.com/ExoriumProtocol"
+            "url": "https://x.com/ExoriumNetwork"
         },
         {
             "text": "Telegram",
